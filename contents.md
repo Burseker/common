@@ -9,6 +9,8 @@
 Первым делом мне конечно же нужна ссылка на документацию по markdown, и для того, чтобы не разводить полный  
 бардак я планирую сделать оглавление с огромной кучей ссылок на всё и вся. Поехали!
 
-[Информация и подсказки по git](hints/git_examples.md)  
-[ssh gpg tutorial](hints/ssh_gpg_usage.md)  
+1. Подсказки по Git
+   - [Базовые и частые операции git](hints/git_common.md)  
+   - [Нетипичные и редко используемые случаи git](hints/git_uncommon.md)    
+1. [ssh gpg tutorial](hints/ssh_gpg_usage.md)  
 
