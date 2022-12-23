@@ -50,8 +50,16 @@ git restore <file>...
 ````
 - Убрать файлы из индекса
 ````
-"git restore --staged <file>...
+git restore --staged <file>...
 ````
+- [Удалить неиндексированные файлы](https://koukia.ca/how-to-remove-local-untracked-files-from-the-current-git-branch-571c6ce9b6b1)
+````
+git clean -n //показывает, что будет удалено,  но не удаляет
+git clean -f //удаляет, то что показал git clean -n 
+git clean -nd //показать не только файлы но и каталоги
+````
+
+
 
 ## Stash
 
@@ -64,6 +72,35 @@ git restore <file>...
 
 
 ## Создание ветки
+[Официальная дока](https://git-scm.com/docs/git-branch)
+- Просто создаем неотслеживаемую ветку
+````
+git branch new_branch
+````
+- Создаем неотслеживаемую ветку и сразу переходим на неё
+````
+git checkout -b new_branch
+````
+- Ветка может быть отслеживаемой. Ключ --track, настраивает ветку на мердж с отслеживаемой веткой из репозитория
+и еще ряд упрощений. Статус трекинга показывает команда `git branch`, так же инфа есть в `git status`
+````
+git branch --track new_branch origin/new_branch 
+````
+- можно создать ветку из удаленной ветки, задав новое имя или используя имя удаленной ветки, но сперва нужно загрузить
+информацию о репозитории. [Подробнее](https://shisho.dev/blog/posts/git-checkout-remote-branch/)
+````
+git fetch && git checkout [branch_name]
+````
+- Более точный вариант
+````
+git fetch origin branch_name
+git checkout branch_name
+````
+- Еще вариант создания одноименной с удаленной отслеживаемой ветки
+````
+git checkout --track origin/new_branch 
+````
+
 
 
 ## Стирание локальной или удаленной ветки
