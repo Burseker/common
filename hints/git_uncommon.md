@@ -1,7 +1,6 @@
 # IMHO удобная конфигурация git для форточек
 
 
-
 # Различные подсказки, примеры использования git, ссылки и мои варианты конфигураций
 
 ## Редкие но иногда полезные операции
@@ -76,3 +75,14 @@ git commit -m 'Added my project'
 git remote add origin git@github.com:sammy/my-new-project.git
 git push -u -f origin main
 ````
+
+
+## Техники работы с git. Trunk-Based Development. Git Flow
+
+Полезные ссылки
+- [сборка информации по TBD](https://trunkbaseddevelopment.com/)
+  > не знаю как перевести Trunk-Based Development наверное "стволовая техника разработки". Работает как на огромных
+  > командах, так и на мелких проектах. Очень стоит обратить на неё внимание.
+  - https://bitworks.software/2019-03-22-trunk-based-development.html
+- [Git Flow](https://habr.com/ru/post/106912/)
+- [git-merge-vs-rebase](https://medium.com/@mena.meseha/git-merge-vs-rebase-556563b26431)
