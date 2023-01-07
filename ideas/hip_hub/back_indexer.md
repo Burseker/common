@@ -52,6 +52,8 @@
 - [асинхронный запуск объекта в Spring](https://stackoverflow.com/questions/46888314/proper-way-to-start-new-thread-from-service-layer-using-spring)
 - [checksum](https://www.baeldung.com/java-md5-checksum-file)
 - [checksum 2](https://stackoverflow.com/questions/304268/getting-a-files-md5-checksum-in-java)
+- [подключение h2 repository](https://www.baeldung.com/spring-boot-h2-database)
+- [конфигурация h2 для хранения в файле](https://stackoverflow.com/questions/43470295/how-to-store-h2-database-file-into-project-directory)
 -----------------------------
 
 Название
