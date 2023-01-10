@@ -59,3 +59,9 @@ taskkill /F /im java.exe
 In the search box on your taskbar, enter Task Scheduler and open the app.  
 In the left pane, expand Task Scheduler Library > Microsoft > Windows, and then scroll down and select the Windows Defender folder.  
 In the top center pane, double-click Windows Defender Scheduled Scan.  
+
+--------------------------------------
+
+# Полезные странички со SOF и прочих ресурсов
+- [Разница Mokito when/doReturn](https://stackoverflow.com/a/29394497)
+- 

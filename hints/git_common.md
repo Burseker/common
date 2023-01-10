@@ -62,11 +62,45 @@ git clean -nd //показать не только файлы но и катал
 
 
 ## Stash
-
+[Информация по теме](https://www.atlassian.com/ru/git/tutorials/saving-changes/git-stash)  
+[Офф дока рус.](https://git-scm.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-%D0%9F%D1%80%D0%B8%D0%BF%D1%80%D1%8F%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BE%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0)  
+[Смотрим что лежит в stash](https://jeka.by/ask/231/git-stash-information/)
+- команда откладывания кода
+````
+git stash
+````
+- листинг отложенных изменений
+````
+  git stash list
+  git stash list -p             //с выводом diff
+  git stash show -p stash@{0}   //с выводом diff по конкретному stash  
+````
+- Применить изменения(stash остается в сохраненных)
+````
+  git stash apply
+  git stash apply stash@{0}
+````
+- Применить изменения и удалить stash из сохраненных
+````
+  git stash pop
+  git stash pop stash@{0}
+````
+- Очистка stash
+````
+  git stash drop
+  git stash drop stash@{0}
+````
 
 ## Merge
-
-
+- Мердж текущей ветки с указанной в команде
+````
+  git merge origin/develop
+````
+- Мердж текущей ветки с указанной в команде, мердж будет сделан, только если не требуется слияния файлов.
+````
+  git merge --ff-only origin/develop
+````
+  
 ## Rebase
 
 
