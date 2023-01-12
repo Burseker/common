@@ -64,4 +64,5 @@ In the top center pane, double-click Windows Defender Scheduled Scan.
 
 # Полезные странички со SOF и прочих ресурсов
 - [Разница Mokito when/doReturn](https://stackoverflow.com/a/29394497)
-- 
+- [Функциональные интерфейсы java8](https://www.baeldung.com/java-8-functional-interfaces)
+- [MD5 calculate](https://mkyong.com/java/java-md5-hashing-example/)
