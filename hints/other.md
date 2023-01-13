@@ -66,3 +66,12 @@ In the top center pane, double-click Windows Defender Scheduled Scan.
 - [Разница Mokito when/doReturn](https://stackoverflow.com/a/29394497)
 - [Функциональные интерфейсы java8](https://www.baeldung.com/java-8-functional-interfaces)
 - [MD5 calculate](https://mkyong.com/java/java-md5-hashing-example/)
+
+--------------------------------------
+
+# Hibernate and JPA
+- https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
+- https://stackoverflow.com/questions/36112451/multiple-repositories-for-the-same-entity-in-spring-data-rest
+- https://www.baeldung.com/jpa-indexes
+- https://java-online.ru/hibernate-entities.xhtml
+- 
