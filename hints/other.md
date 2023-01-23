@@ -55,6 +55,11 @@ taskkill /f /im javaw.exe
 taskkill /F /im java.exe
 ````
 
+## доступ к удаленной папке
+````
+cd \\Keenetic_giga\DATA
+````
+
 ## управление планировщиком на винде
 In the search box on your taskbar, enter Task Scheduler and open the app.  
 In the left pane, expand Task Scheduler Library > Microsoft > Windows, and then scroll down and select the Windows Defender folder.  
