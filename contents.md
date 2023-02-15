@@ -20,6 +20,7 @@
    - [Конфигурация ssh для git](hints/ssh_gpg_usage.md)  
 1. [Памятка по markdown](hints/md_is_markdown.md)    
 1. [Spring](hints/spring.md)     
+1. [Полезные библиотеки](hints/useful_libs.md)     
 1. [Всяко-разно](hints/other.md)    
 1. [ssh gpg tutorial](hints/ssh_gpg_usage.md)  
 1. Идеи пет проектов
