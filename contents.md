@@ -16,7 +16,11 @@
 
 1. Подсказки по Git
    - [Базовые и частые операции git](hints/git_common.md)  
-   - [Нетипичные и редко используемые случаи git](hints/git_uncommon.md)    
+   - [Нетипичные и редко используемые случаи git](hints/git_uncommon.md)
+   - [Конфигурация ssh для git](hints/ssh_gpg_usage.md)  
+1. [Памятка по markdown](hints/md_is_markdown.md)    
+1. [Spring](hints/spring.md)     
+1. [Всяко-разно](hints/other.md)    
 1. [ssh gpg tutorial](hints/ssh_gpg_usage.md)  
 1. Идеи пет проектов
    - [Проект hip_hub, файлокомбайн с тегированием и всякими свистоперделками](ideas/hip_hub/description.md)
