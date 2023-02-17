@@ -23,6 +23,7 @@
 1. [Полезные библиотеки](hints/useful_libs.md)     
 1. [Всяко-разно](hints/other.md)    
 1. [ssh gpg tutorial](hints/ssh_gpg_usage.md)  
+1. [win настройки](hints/win_soft_settings.md)  
 1. Идеи пет проектов
    - [Проект hip_hub, файлокомбайн с тегированием и всякими свистоперделками](ideas/hip_hub/description.md)
 
