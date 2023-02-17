@@ -57,6 +57,12 @@ taskkill /f /im javaw.exe
 taskkill /F /im java.exe
 ````
 
+## зачищаем мавен библиотеки от мусора
+это линукс команда, но она нормально выполняется из git-bash
+````
+find ~/.m2 -name *.lastUpdated -delete
+````
+
 ## доступ к удаленной папке
 ````
 cd \\Keenetic_giga\DATA

@@ -2,8 +2,55 @@
 
 # IMHO удобная конфигурация git для форточек
 
+### Проверка текущей конфигурации git
+https://stackoverflow.com/questions/12254076/how-do-i-show-my-global-git-configuration  
+````
+git config --list
+git config --list --show-origin    //Вариант с источником настройки
+````
 
-# Различные подсказки, примеры использования git, ссылки и мои варианты конфигураций
+### Ставим Notepad++ как редактор гита
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-set-Notepad-as-the-default-Git-editor-for-commits-instead-of-Vim
+````
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+````
+
+### Разрешаем локально или глобально использовать longpaths в репозитории
+````
+git config --system core.longpaths true 
+git config --global core.longpaths true 
+````
+
+### Псевдонимы для assume-unchanged файлов(лучше этим не пользоваться, т.к. после мержа и ребейза это может слетать)
+https://stackoverflow.com/questions/2363197/can-i-get-a-list-of-files-marked-assume-unchanged
+выводим список невидимых файлов
+````
+git ls-files -v | grep '^[[:lower:]]'
+[alias]
+    ignored = !git ls-files -v | grep "^[[:lower:]]"
+````
+Еще вариант
+````
+git ls-files -v | grep "^[a-z]"
+git config --global alias.hidden '!git ls-files -v | grep "^[a-z]"'   //добавить псевдоним
+````
+полезные псевдонимы
+````
+[alias]
+  hide = update-index --assume-unchanged
+  unhide = update-index --no-assume-unchanged
+  unhide-all = update-index --really-refresh
+  hidden = !git ls-files -v | grep \"^[a-z]\"
+  ignored = !git status -s --ignored | grep \"^!!\"
+````
+
+# Различные подсказки, примеры использования git, ссылки
+
+### Делаем файлы невидимыми для индекса
+````
+git update-index --assume-unchanged <file>
+git update-index --no-assume-unchanged <file>
+````
 
 ## Редкие но иногда полезные операции
 
