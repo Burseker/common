@@ -128,9 +128,24 @@ git stash
 ````
 
 ## Rebase
-
-
-
+[documentation](https://git-scm.com/docs/git-rebase)
+when on topic:
+````
+      A---B---C topic
+     /
+D---E---F---G master
+````
+From this point, the result of either of the following commands:
+````
+git rebase master
+git rebase master topic
+````
+would be:
+````
+              A'--B'--C' topic
+             /
+D---E---F---G master
+````
 ## Создание ветки
 [Официальная дока](https://git-scm.com/docs/git-branch)
 - Просто создаем неотслеживаемую ветку

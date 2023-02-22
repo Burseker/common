@@ -13,6 +13,7 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com"
 $ ssh-keygen -t ed25519 -C "your_email@example.com" -f /c/Users/UserName/.ssh/id_ed25519_personal
 $ ssh-keygen --help
 ```
+fingerprint можно забэкапить, к примеру в /c/Users/UserName/.ssh/key.bup
 
 ## Немного инфы про ssh-agent  
 
