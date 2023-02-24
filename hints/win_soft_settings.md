@@ -38,6 +38,12 @@ git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -mul
 
 ## Idea
 
+Editor->General->Editor Tabs
+- show tabs in one row `false`
+- show tabs in separate view `true`
+- use small font labels `true`
+- tab limit `20`
+
 ## ConEmu
 [Связка Far-ConEmu](http://chuchuva.com/pavel/2012/07/far-manager-and-console-output/)
 
