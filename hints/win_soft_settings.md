@@ -43,8 +43,14 @@ Editor->General->Editor Tabs
 - show tabs in separate view `true`
 - use small font labels `true`
 - tab limit `20`
-- [Починка дефолтной кодировки в IDEA](https://youtrack.jetbrains.com/issue/IDEA-276155/Unable-to-change-gradle-build-output-encoding)
-- 
+- [Починка дефолтной кодировки в IDEA](https://youtrack.jetbrains.com/issue/IDEA-276155/Unable-to-change-gradle-build-output-encoding)  
+  Есть несколько путей задать кодировку по умолчанию в IDEA, самый надежный оказался   
+    ```` Help->Edit custom VM Options-> -Dfile.encoding=UTF-8 ````  
+  Так же этот параметр можно задать через конфигурацию запуска `Add VM Options-> -Dfile.encoding=UTF8`, но это сработало
+  несколько криво(в консоли нормально не отображалась буква И).  
+  А так же можно добавить опцию `-Dfile.encoding=UTF8` к gradlew.DEFAULT_JVM_OPTS, но нужно будет настраивать gradle запускаться через
+  этот скрипт, для консольной сборки вариант тоже подходит
+  
 
 ## ConEmu
 [Связка Far-ConEmu](http://chuchuva.com/pavel/2012/07/far-manager-and-console-output/)
