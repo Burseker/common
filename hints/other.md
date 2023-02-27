@@ -85,6 +85,10 @@ cd \\Keenetic_giga\DATA
 type applicationParam1.json | python -m json.tool
 ````
 
+## Кодировка в Java
+https://stackoverflow.com/questions/4453269/what-is-the-character-encoding-of-string-in-java
+https://www.geeksforgeeks.org/how-to-get-and-set-default-character-encoding-or-charset-in-java/
+
 ## управление планировщиком на винде
 In the search box on your taskbar, enter Task Scheduler and open the app.  
 In the left pane, expand Task Scheduler Library > Microsoft > Windows, and then scroll down and select the Windows Defender folder.  
