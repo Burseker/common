@@ -43,6 +43,8 @@ Editor->General->Editor Tabs
 - show tabs in separate view `true`
 - use small font labels `true`
 - tab limit `20`
+- [Починка дефолтной кодировки в IDEA](https://youtrack.jetbrains.com/issue/IDEA-276155/Unable-to-change-gradle-build-output-encoding)
+- 
 
 ## ConEmu
 [Связка Far-ConEmu](http://chuchuva.com/pavel/2012/07/far-manager-and-console-output/)

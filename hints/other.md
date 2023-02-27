@@ -86,8 +86,9 @@ type applicationParam1.json | python -m json.tool
 ````
 
 ## Кодировка в Java
-https://stackoverflow.com/questions/4453269/what-is-the-character-encoding-of-string-in-java
-https://www.geeksforgeeks.org/how-to-get-and-set-default-character-encoding-or-charset-in-java/
+https://stackoverflow.com/questions/4453269/what-is-the-character-encoding-of-string-in-java  
+https://www.geeksforgeeks.org/how-to-get-and-set-default-character-encoding-or-charset-in-java/  
+[Починка дефолтной кодировки в IDEA](https://youtrack.jetbrains.com/issue/IDEA-276155/Unable-to-change-gradle-build-output-encoding)  
 
 ## управление планировщиком на винде
 In the search box on your taskbar, enter Task Scheduler and open the app.  
