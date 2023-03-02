@@ -24,5 +24,12 @@
 - https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
 - http://www.h2database.com/html/features.html
 
+### JUNIT
+Важные ссылки
+- https://www.baeldung.com/parameterized-tests-junit-5
+- https://stackoverflow.com/questions/47738937/how-to-mock-crudrepository-the-right-way
 
 
+### STREAMS API
+Важные ссылки
+- https://www.baeldung.com/java-iterable-to-collection
