@@ -28,7 +28,8 @@
 Важные ссылки
 - https://www.baeldung.com/parameterized-tests-junit-5
 - https://stackoverflow.com/questions/47738937/how-to-mock-crudrepository-the-right-way
-
+- [@DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
+- [SOF @DataJpaTest](https://stackoverflow.com/questions/57345449/unable-to-load-application-properties-file-datajpatest-annotation)
 
 ### STREAMS API
 Важные ссылки
