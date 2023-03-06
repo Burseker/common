@@ -34,3 +34,21 @@
 ### STREAMS API
 Важные ссылки
 - https://www.baeldung.com/java-iterable-to-collection
+- [толково про сплитераторы](https://habr.com/ru/post/256905/)
+
+### ANGULAR
+- https://habr.com/ru/post/454198/
+- https://angular.io/guide/what-is-angular
+- https://www.baeldung.com/spring-boot-angular-web
+- https://github.com/habuma/spring-in-action-5-samples/tree/main/ch08/tacocloud-ui
+
+### Template Engines for Spring
+> !!! Интересная штука Groovy Template Engine, плюсом то, что это нативный groovy
+- https://www.baeldung.com/spring-template-engines
+
+### Task Queues(The most about ActiveMQ)
+- https://taskqueues.com/
+- https://fampay.in/blog/implementing-an-in-memory-queue/
+- https://www.devglan.com/spring-boot/spring-boot-jms-activemq-example
+- https://activemq.apache.org/how-do-i-embed-a-broker-inside-a-connection.html
+- https://stackoverflow.com/questions/14342430/are-there-any-mq-servers-that-can-run-embedded-in-a-java-process
