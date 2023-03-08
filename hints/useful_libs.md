@@ -6,6 +6,10 @@
 
 
 ## JAVA
+### JACKSON
+- https://www.baeldung.com/jackson-deserialize-immutable-objects
+- https://www.logicbig.com/tutorials/misc/jackson/json-creator.html
+
 ### JSON-Path
 Библиотека для работы с форматом json из кода java  
 - [Репозиторий](https://github.com/json-path/JsonPath)  
@@ -51,4 +55,16 @@
 - https://fampay.in/blog/implementing-an-in-memory-queue/
 - https://www.devglan.com/spring-boot/spring-boot-jms-activemq-example
 - https://activemq.apache.org/how-do-i-embed-a-broker-inside-a-connection.html
+- https://activemq.apache.org/components/artemis/documentation/latest/embedding-activemq.html
 - https://stackoverflow.com/questions/14342430/are-there-any-mq-servers-that-can-run-embedded-in-a-java-process
+- https://github.com/JoseLuisSR/springboot-activemq
+- https://stackoverflow.com/questions/33339224/spring-jms-listener-container-concurrency-attribute-not-working
+- https://memorynotfound.com/spring-boot-embedded-activemq-configuration-example/
+
+### hawtio
+- https://hawt.io/docs/get-started/
+- https://mvnrepository.com/artifact/io.hawt/hawtio-springboot
+- https://jolokia.org/
+- https://habr.com/ru/post/264415/
+- https://github.com/JoseLuisSR/springboot-activemq
+- 
