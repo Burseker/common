@@ -67,4 +67,15 @@
 - https://jolokia.org/
 - https://habr.com/ru/post/264415/
 - https://github.com/JoseLuisSR/springboot-activemq
+
+
+### JSON Schema
+- [official](https://json-schema.org/understanding-json-schema/reference/object.html)
+
+### JSON Schema to POJO
+- [official](https://www.jsonschema2pojo.org/)
+- [gradle settings](https://thewokecoder.io/generate-pojo-from-json/)
+- https://dzone.com/articles/converting-json-to-pojos-using-java
+- https://www.baeldung.com/java-generate-class-from-json
+- https://github.com/joelittlejohn/jsonschema2pojo/tree/master/jsonschema2pojo-gradle-plugin
 - 
