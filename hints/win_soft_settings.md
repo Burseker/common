@@ -71,6 +71,40 @@ Editor->General->Editor Tabs
 
 ## Chrome
 
+## WSL on windows
+Check the default distribution version
+```
+wsl -help
+wsl --list --online
+```
+install default destrib with `wsl --install`
+to install mc you need to enable the universe repository:
+
+check repos   
+`cat /etc/apt/sources.list`  
+next update repos  
+`sudo apt-get update`  
+to install midnight commander  
+`sudo apt install mc`  
+
+
+install gnu comlpiller
+`sudo apt install build-essential`
+install lib boost
+`sudo apt install libboost-all-dev`
+install cmake
+`sudo apt install cmake`
+
+mkdir /somedir
+cd /somedir
+git clone https://github.com/lballabio/QuantLib.git
+cd ./QuantLib/
+mkdir build
+cd build
+cmake .. -D CMAKE_BUILD_TYPE=Release
+
+
+
 
 
 

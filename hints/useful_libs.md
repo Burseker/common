@@ -6,6 +6,8 @@
 
 
 ## JAVA
+- [Отличный список основных JAVA проектов и репозиториев](https://github.com/akullpp/awesome-java)
+
 ### JACKSON
 - https://www.baeldung.com/jackson-deserialize-immutable-objects
 - https://www.logicbig.com/tutorials/misc/jackson/json-creator.html

@@ -214,3 +214,11 @@ git push <remote_name> :<branch_name>
 ````
 
 # Работа с логом
+
+# ignored files
+- [SOF docs](https://stackoverflow.com/questions/466764/git-command-to-show-which-specific-files-are-ignored-by-gitignore)
+- list ignored files  
+`git status --ignored`  
+`git clean -ndX`  
+- remove ignored files  
+`git clean -fdX` 
