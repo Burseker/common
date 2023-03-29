@@ -158,4 +158,7 @@ systemProp.javax.net.ssl.trustStorePassword=changeit
 - https://stackoverflow.com/questions/36112451/multiple-repositories-for-the-same-entity-in-spring-data-rest
 - https://www.baeldung.com/jpa-indexes
 - https://java-online.ru/hibernate-entities.xhtml
-- 
+
+## Java 17: Pattern Matching for switch
+- https://habr.com/ru/post/579178/
+- https://stackoverflow.com/questions/5579309/is-it-possible-to-use-the-instanceof-operator-in-a-switch-statement
