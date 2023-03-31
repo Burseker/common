@@ -61,6 +61,28 @@ git clean -f //удаляет, то что показал git clean -n
 git clean -nd //показать не только файлы но и каталоги
 ````
 
+## Tags
+[official](https://git-scm.com/book/en/v2/Git-Basics-Tagging)  
+[stackovf](https://stackoverflow.com/questions/5195859/how-do-you-push-a-tag-to-a-remote-repository-using-git)
+
+- Создаем тэг
+````
+git tag tag_name
+````
+- Проверяем наличие тэга
+````
+git tag
+````
+- Отправляем таг в репу
+````
+git push origin <tag_name>
+````
+- Отправляем все тэги разом
+````
+git push --tags <remote>
+# Or
+git push <remote> --tags
+````
 
 
 ## Stash

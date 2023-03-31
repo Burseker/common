@@ -8,6 +8,20 @@
 ## JAVA
 - [Отличный список основных JAVA проектов и репозиториев](https://github.com/akullpp/awesome-java)
 
+### JAVA GENERICS
+- https://www.baeldung.com/java-generics 
+- https://www.baeldung.com/java-generics-vs-extends-object
+- https://www.baeldung.com/java-super-type-tokens#1reification
+- https://habr.com/ru/company/sberbank/blog/416413/
+- https://docs.oracle.com/javase/specs/jls/se8/html/jls-5.html#jls-5.1.10
+- https://docs.oracle.com/javase/tutorial/java/generics/capture.html
+- https://stackoverflow.com/questions/7773198/how-to-cast-list-extends-foo-to-listfoo
+- https://stackoverflow.com/questions/2575363/generics-list-extends-animal-is-same-as-listanimal/2575591#2575591
+- https://stackoverflow.com/questions/4343202/difference-between-super-t-and-extends-t-in-java
+- [Получение generic-типа в runtime](https://habr.com/ru/post/588252/)
+- [Как устроен вывод Generic-типов в Java](https://habr.com/ru/company/raiffeisenbank/blog/588949/)
+
+
 ### JACKSON
 - https://www.baeldung.com/jackson-deserialize-immutable-objects
 - https://www.logicbig.com/tutorials/misc/jackson/json-creator.html
@@ -76,10 +90,10 @@
 
 ### JSON Schema to POJO
 - [official](https://www.jsonschema2pojo.org/)
+- https://github.com/joelittlejohn/jsonschema2pojo/tree/master/jsonschema2pojo-gradle-plugin
 - [gradle settings](https://thewokecoder.io/generate-pojo-from-json/)
 - https://dzone.com/articles/converting-json-to-pojos-using-java
 - https://www.baeldung.com/java-generate-class-from-json
-- https://github.com/joelittlejohn/jsonschema2pojo/tree/master/jsonschema2pojo-gradle-plugin
 - https://json-schema.org/understanding-json-schema/index.html
 - https://json-schema.org/learn/miscellaneous-examples.html
 - https://json-schema.org/understanding-json-schema/reference/string.html
