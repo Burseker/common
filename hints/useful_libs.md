@@ -4,7 +4,6 @@
 
 # Полезные Библиотеки и репозитории
 
-
 ## JAVA
 - [Отличный список основных JAVA проектов и репозиториев](https://github.com/akullpp/awesome-java)
 
@@ -20,6 +19,8 @@
 - https://stackoverflow.com/questions/4343202/difference-between-super-t-and-extends-t-in-java
 - [Получение generic-типа в runtime](https://habr.com/ru/post/588252/)
 - [Как устроен вывод Generic-типов в Java](https://habr.com/ru/company/raiffeisenbank/blog/588949/)
+- https://stackoverflow.com/questions/2205891/iterate-enum-values-using-java-generics
+- 
 
 
 ### JACKSON
@@ -97,4 +98,12 @@
 - https://json-schema.org/understanding-json-schema/index.html
 - https://json-schema.org/learn/miscellaneous-examples.html
 - https://json-schema.org/understanding-json-schema/reference/string.html
-- 
+
+
+# Алгоритмы
+
+### MapReduce
+- https://habr.com/ru/articles/103467/
+- https://neurohive.io/ru/tutorial/mapreduce/
+- https://www.bigdataschool.ru/wiki/mapreduce
+- https://samolisov.blogspot.com/2010/04/reduce-java.html
