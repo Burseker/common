@@ -46,13 +46,6 @@
 - http://www.h2database.com/html/features.html
 - 
 
-### JUNIT
-Важные ссылки
-- https://www.baeldung.com/parameterized-tests-junit-5
-- https://stackoverflow.com/questions/47738937/how-to-mock-crudrepository-the-right-way
-- [@DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
-- [SOF @DataJpaTest](https://stackoverflow.com/questions/57345449/unable-to-load-application-properties-file-datajpatest-annotation)
-
 ### STREAMS API
 Важные ссылки
 - https://www.baeldung.com/java-iterable-to-collection
@@ -99,7 +92,6 @@
 - https://json-schema.org/learn/miscellaneous-examples.html
 - https://json-schema.org/understanding-json-schema/reference/string.html
 
-
 # Алгоритмы
 
 ### MapReduce
@@ -107,3 +99,37 @@
 - https://neurohive.io/ru/tutorial/mapreduce/
 - https://www.bigdataschool.ru/wiki/mapreduce
 - https://samolisov.blogspot.com/2010/04/reduce-java.html
+
+## Docker
+- https://www.docker.com/
+- https://www.youtube.com/watch?v=3c-iBn73dDE
+- https://www.youtube.com/watch?v=X48VuDVv0do
+
+## Testing
+
+### TestContainers
+- https://www.testcontainers.org/
+- https://www.youtube.com/watch?v=PEVVvZOt7bY
+- https://www.youtube.com/watch?v=xgZ8KyUDjvQ
+- https://www.youtube.com/watch?v=r5dA_g-_N6M
+- https://habr.com/ru/companies/jugru/articles/343298/
+
+### JUNIT
+Важные ссылки
+- https://www.baeldung.com/parameterized-tests-junit-5
+- https://stackoverflow.com/questions/47738937/how-to-mock-crudrepository-the-right-way
+- [@DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
+- [SOF @DataJpaTest](https://stackoverflow.com/questions/57345449/unable-to-load-application-properties-file-datajpatest-annotation)
+
+### Mocking
+- https://en.wikipedia.org/wiki/Comparison_of_API_simulation_tools
+
+#### WireMock
+- https://wiremock.org/
+- https://habr.com/ru/companies/rostelecom/articles/679276/
+- https://habr.com/ru/companies/rostelecom/articles/679330/
+- https://habr.com/ru/companies/yandex/articles/228691/
+- https://habr.com/ru/articles/726332/
+
+#### MockServer
+- https://en.wikipedia.org/wiki/MockServer
