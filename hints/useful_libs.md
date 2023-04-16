@@ -58,8 +58,19 @@
 -
 
 ## Specification
+### OpenApi
+- https://www.openapis.org/
+- https://stackoverflow.com/questions/58482822/openapi-tools-generator-vs-swagger-codegen
+- https://starkovden.github.io/introduction-openapi-and-swagger.html
+- https://www.baeldung.com/spring-rest-openapi-documentation
+
+### OpenApi Generator
+- https://openapi-generator.tech/
+- https://stackoverflow.com/questions/58482822/openapi-tools-generator-vs-swagger-codegen
+
 ### Swagger
 - https://swagger.io/
+- https://swagger.io/specification/
 - https://habr.com/ru/articles/541592/
 - https://habr.com/ru/articles/584688/
 - https://editor.swagger.io/
