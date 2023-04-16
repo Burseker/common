@@ -22,7 +22,6 @@
 - https://stackoverflow.com/questions/2205891/iterate-enum-values-using-java-generics
 - 
 
-
 ### JACKSON
 - https://www.baeldung.com/jackson-deserialize-immutable-objects
 - https://www.logicbig.com/tutorials/misc/jackson/json-creator.html
@@ -50,6 +49,24 @@
 Важные ссылки
 - https://www.baeldung.com/java-iterable-to-collection
 - [толково про сплитераторы](https://habr.com/ru/post/256905/)
+
+## HTTP Clients
+### OpenFeign
+- https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/
+- https://www.baeldung.com/spring-cloud-openfeign
+### OkHttp
+-
+
+## Specification
+### Swagger
+- https://swagger.io/
+- https://habr.com/ru/articles/541592/
+- https://habr.com/ru/articles/584688/
+- https://editor.swagger.io/
+- https://stackoverflow.com/questions/49598003/configure-swagger-ui-with-maven
+- https://phauer.com/2015/enriching-restful-services-swagger/
+- https://medium.com/swlh/openapi-swagger-ui-codegen-with-spring-boot-1afb1c0a570e
+- https://springdoc.org/
 
 ### ANGULAR
 - https://habr.com/ru/post/454198/
@@ -81,6 +98,8 @@
 
 ### JSON Schema
 - [official](https://json-schema.org/understanding-json-schema/reference/object.html)
+- https://json-schema.org/implementations.html
+- https://github.com/java-json-tools/json-schema-validator
 
 ### JSON Schema to POJO
 - [official](https://www.jsonschema2pojo.org/)
@@ -105,7 +124,7 @@
 - https://www.youtube.com/watch?v=3c-iBn73dDE
 - https://www.youtube.com/watch?v=X48VuDVv0do
 
-## Testing
+# Testing
 
 ### TestContainers
 - https://www.testcontainers.org/
@@ -130,6 +149,11 @@
 - https://habr.com/ru/companies/rostelecom/articles/679330/
 - https://habr.com/ru/companies/yandex/articles/228691/
 - https://habr.com/ru/articles/726332/
+- Валидация запросов
+  - https://github.com/wiremock/wiremock/issues/1390
+  - https://bitbucket.org/atlassian/swagger-request-validator/src/master/
+  - https://github.com/VirginGates/validating-wiremock
+  - https://github.com/java-json-tools/json-schema-validator
 
 #### MockServer
 - https://en.wikipedia.org/wiki/MockServer
