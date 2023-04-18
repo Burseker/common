@@ -66,6 +66,7 @@
 
 ### OpenApi Generator
 - https://openapi-generator.tech/
+- https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin
 - https://stackoverflow.com/questions/58482822/openapi-tools-generator-vs-swagger-codegen
 
 ### Swagger
@@ -78,6 +79,7 @@
 - https://phauer.com/2015/enriching-restful-services-swagger/
 - https://medium.com/swlh/openapi-swagger-ui-codegen-with-spring-boot-1afb1c0a570e
 - https://springdoc.org/
+- https://medium.com/devexperts/specification-first-make-life-easier-with-openapi-and-spring-eeaf5c22146b
 
 ### ANGULAR
 - https://habr.com/ru/post/454198/
