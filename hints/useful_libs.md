@@ -170,3 +170,8 @@
 
 #### MockServer
 - https://en.wikipedia.org/wiki/MockServer
+
+#### Cucumber
+- https://thepracticaldeveloper.com/cucumber-tests-spring-boot-dependency-injection/
+- https://groups.google.com/g/cukes/c/01SAwDi7xUM
+- 
