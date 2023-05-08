@@ -13,4 +13,12 @@
 - https://alexkosarev.name/2019/01/10/spring-framework-functional-bean-registration/
 - https://medium.com/@venkivenki4b6/spring-dynamically-register-beans-in-4-ways-at-run-time-c1dc45dcbeb9
 - https://www.baeldung.com/spring-5-functional-beans
+
+## Spring Logging
+- https://www.baeldung.com/spring-boot-logging
+- https://www.baeldung.com/spring-http-logging
+- https://stackoverflow.com/questions/33744875/spring-boot-how-to-log-all-requests-and-responses-with-exceptions-in-single-pl
+
+## Spring Reactive
+- https://habr.com/ru/articles/565698/
 - 

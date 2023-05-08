@@ -235,6 +235,27 @@ git push <remote_name> --delete <branch_name>
 git push <remote_name> :<branch_name>
 ````
 
+
+## Создание PATCH
+https://stackoverflow.com/questions/5159185/create-a-git-patch-from-the-uncommitted-changes-in-the-current-working-directory
+- which might be easier to remember than
+````
+# for current diff
+git diff > mypatch.patch
+# uncomminetted
+git diff --cached > mypatch.patch
+# comminetted
+git diff HEAD~commit_count > name.patch
+# or
+git format-patch HEAD~<N>
+````
+
+- You can later apply the patch:
+````
+git apply mypatch.patch
+````
+
+
 # Работа с логом
 
 # ignored files

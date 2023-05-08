@@ -7,6 +7,13 @@
 ## JAVA
 - [Отличный список основных JAVA проектов и репозиториев](https://github.com/akullpp/awesome-java)
 
+### Java Servlets
+- https://download.oracle.com/otndocs/jcp/servlet-4-final-spec/index.html
+- Async servlets
+  - https://coderlessons.com/articles/programmirovanie/podderzhka-servlet-3-0-async-v-spring-i-zabluzhdeniia-o-proizvoditelnosti
+  - https://pro-java.ru/java-dlya-opytnyx/asinxronnye-servlety-java/
+  - https://coderlessons.com/articles/java/asinkhronnyi-servlet-osobennost-servleta-3
+
 ### JAVA GENERICS
 - https://www.baeldung.com/java-generics 
 - https://www.baeldung.com/java-generics-vs-extends-object
@@ -54,8 +61,9 @@
 ### OpenFeign
 - https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/
 - https://www.baeldung.com/spring-cloud-openfeign
+
 ### OkHttp
--
+Библиотека запросов http
 
 ## Specification
 ### OpenApi
@@ -80,6 +88,16 @@
 - https://medium.com/swlh/openapi-swagger-ui-codegen-with-spring-boot-1afb1c0a570e
 - https://springdoc.org/
 - https://medium.com/devexperts/specification-first-make-life-easier-with-openapi-and-spring-eeaf5c22146b
+- https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+- https://www.baeldung.com/spring-rest-openapi-documentation
+- https://stackoverflow.com/questions/72479827/are-there-any-advantages-of-using-migrating-to-springdoc-openapi-from-springfox
+- https://stackoverflow.com/questions/62084557/using-openapi-yaml-in-springdoc
+- springdoc
+  - https://springdoc.org/v2/
+  - https://springdoc.org/v2/faq.html
+  - https://springdoc.org/
+  - https://springdoc.org/faq.html
+  - 
 
 ### ANGULAR
 - https://habr.com/ru/post/454198/
