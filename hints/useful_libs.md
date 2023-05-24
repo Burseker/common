@@ -32,6 +32,7 @@
 ### JACKSON
 - https://www.baeldung.com/jackson-deserialize-immutable-objects
 - https://www.logicbig.com/tutorials/misc/jackson/json-creator.html
+- https://www.baeldung.com/jackson-inheritance
 
 ### JSON-Path
 Библиотека для работы с форматом json из кода java  
@@ -170,9 +171,11 @@
 - https://stackoverflow.com/questions/47738937/how-to-mock-crudrepository-the-right-way
 - [@DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
 - [SOF @DataJpaTest](https://stackoverflow.com/questions/57345449/unable-to-load-application-properties-file-datajpatest-annotation)
+- https://www.baeldung.com/junit-springrunner-vs-mockitojunitrunner
 
 ### Mocking
 - https://en.wikipedia.org/wiki/Comparison_of_API_simulation_tools
+- https://stackoverflow.com/questions/60308578/what-is-the-difference-between-extendwithspringextension-class-and-extendwit
 
 #### WireMock
 - https://wiremock.org/
