@@ -103,6 +103,23 @@ mkdir build
 cd build
 cmake .. -D CMAKE_BUILD_TYPE=Release
 
+## SMB settings
+не рекомендуется использовать версию протокола smb ниже smb2, кроме того рекомендуют не использовать анонимного 
+пользователя, а заводить пользователей под все виды деятельности
+- https://winitpro.ru/index.php/2018/01/24/ne-otkryvayutsya-smb-papki-posle-ustanovki-windows-10-1709/
+- https://zawindows.ru/%D0%BA%D0%B0%D0%BA-%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B5-%D0%B8%D0%BC%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B8/
+- https://it-tehnik.ru/windows10/set/vvod-setevyh-uchetnyh-dannyh-kak-ubrat.html
+
+Выполняется из ``Win+r`` или из cmd  
+- ``gpedit.msc``
+- ``rundll32.exe keymgr.dll, KRShowKeyMgr``  - открывает список сохраненных имен пользователей и паролей
+#### net use
+[хорошая статья по теме net use](https://cmd4win.ru/administrirovanie-seti/upravlenie-setyu/68-net-use)  
+Для подключения из под конкретного пользака следует использовать утилиту net use, можно создать нужный диск с нужным пользователем.
+> Если работать из под консоли админа, то из эксплорера не будет видно подключенных папок
+- ``net use`` - список существующих подключений
+- ``net use \\<computer_name>\<folder_name> /USER:<user> <password> /PERSISTENT:NO`` - запуск из под конкретного пользака
+- ``net use * /DEL`` - Удалить все подключения
 
 
 
