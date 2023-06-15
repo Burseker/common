@@ -16,6 +16,10 @@ git pull
 git fetch origin
 git merge --ff-only targetBranch
 ````
+- Полная информация по текущей ветке, включая апстрим
+````
+git branch -vv
+````
 - Сброс ветки к состоянию до изменений
 ````
 git reset --hard HEAD
