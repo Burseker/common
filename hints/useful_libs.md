@@ -5,9 +5,11 @@
 # Полезные Библиотеки и репозитории
 
 ## JAVA
+
 - [Отличный список основных JAVA проектов и репозиториев](https://github.com/akullpp/awesome-java)
 
 ### Java Servlets
+
 - https://download.oracle.com/otndocs/jcp/servlet-4-final-spec/index.html
 - Async servlets
   - https://coderlessons.com/articles/programmirovanie/podderzhka-servlet-3-0-async-v-spring-i-zabluzhdeniia-o-proizvoditelnosti
@@ -15,6 +17,7 @@
   - https://coderlessons.com/articles/java/asinkhronnyi-servlet-osobennost-servleta-3
 
 ### JAVA GENERICS
+
 - https://www.baeldung.com/java-generics 
 - https://www.baeldung.com/java-generics-vs-extends-object
 - https://www.baeldung.com/java-super-type-tokens#1reification
@@ -30,55 +33,71 @@
 - 
 
 ### JACKSON
+
 - https://www.baeldung.com/jackson-deserialize-immutable-objects
 - https://www.logicbig.com/tutorials/misc/jackson/json-creator.html
 - https://www.baeldung.com/jackson-inheritance
 
 ### JSON-Path
+
 Библиотека для работы с форматом json из кода java  
+
 - [Репозиторий](https://github.com/json-path/JsonPath)  
 - [JSONPath Online Evaluator](https://jsonpath.com/)  
 - [Introduction to JsonPath](https://www.baeldung.com/guide-to-jayway-jsonpath)  
 
 ### Hibernate
+
 Важные ссылки
+
 - https://docs.spring.io/spring-data/jpa/docs/current/reference/html/
 - https://www.baeldung.com/spring-data-derived-queries
 - https://www.baeldung.com/spring-data-repositories
 
 ### H2 DB
+
 Важные ссылки
+
 - https://www.baeldung.com/spring-boot-h2-database
 - https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
 - http://www.h2database.com/html/features.html
 - 
 
 ### STREAMS API
+
 Важные ссылки
+
 - https://www.baeldung.com/java-iterable-to-collection
 - [толково про сплитераторы](https://habr.com/ru/post/256905/)
 
 ## HTTP Clients
+
 ### OpenFeign
+
 - https://docs.spring.io/spring-cloud-openfeign/docs/current/reference/html/
 - https://www.baeldung.com/spring-cloud-openfeign
 
 ### OkHttp
+
 Библиотека запросов http
 
 ## Specification
+
 ### OpenApi
+
 - https://www.openapis.org/
 - https://stackoverflow.com/questions/58482822/openapi-tools-generator-vs-swagger-codegen
 - https://starkovden.github.io/introduction-openapi-and-swagger.html
 - https://www.baeldung.com/spring-rest-openapi-documentation
 
 ### OpenApi Generator
+
 - https://openapi-generator.tech/
 - https://github.com/OpenAPITools/openapi-generator/tree/master/modules/openapi-generator-maven-plugin
 - https://stackoverflow.com/questions/58482822/openapi-tools-generator-vs-swagger-codegen
 
 ### Swagger
+
 - https://swagger.io/
 - https://swagger.io/specification/
 - https://habr.com/ru/articles/541592/
@@ -101,16 +120,20 @@
   - 
 
 ### ANGULAR
+
 - https://habr.com/ru/post/454198/
 - https://angular.io/guide/what-is-angular
 - https://www.baeldung.com/spring-boot-angular-web
 - https://github.com/habuma/spring-in-action-5-samples/tree/main/ch08/tacocloud-ui
 
 ### Template Engines for Spring
+
 > !!! Интересная штука Groovy Template Engine, плюсом то, что это нативный groovy
+
 - https://www.baeldung.com/spring-template-engines
 
 ### Task Queues(The most about ActiveMQ)
+
 - https://taskqueues.com/
 - https://fampay.in/blog/implementing-an-in-memory-queue/
 - https://www.devglan.com/spring-boot/spring-boot-jms-activemq-example
@@ -122,6 +145,7 @@
 - https://memorynotfound.com/spring-boot-embedded-activemq-configuration-example/
 
 ### hawtio
+
 - https://hawt.io/docs/get-started/
 - https://mvnrepository.com/artifact/io.hawt/hawtio-springboot
 - https://jolokia.org/
@@ -129,11 +153,13 @@
 - https://github.com/JoseLuisSR/springboot-activemq
 
 ### JSON Schema
+
 - [official](https://json-schema.org/understanding-json-schema/reference/object.html)
 - https://json-schema.org/implementations.html
 - https://github.com/java-json-tools/json-schema-validator
 
 ### JSON Schema to POJO
+
 - [official](https://www.jsonschema2pojo.org/)
 - https://github.com/joelittlejohn/jsonschema2pojo/tree/master/jsonschema2pojo-gradle-plugin
 - [gradle settings](https://thewokecoder.io/generate-pojo-from-json/)
@@ -146,12 +172,14 @@
 # Алгоритмы
 
 ### MapReduce
+
 - https://habr.com/ru/articles/103467/
 - https://neurohive.io/ru/tutorial/mapreduce/
 - https://www.bigdataschool.ru/wiki/mapreduce
 - https://samolisov.blogspot.com/2010/04/reduce-java.html
 
 ## Docker
+
 - https://www.docker.com/
 - https://www.youtube.com/watch?v=3c-iBn73dDE
 - https://www.youtube.com/watch?v=X48VuDVv0do
@@ -159,6 +187,7 @@
 # Testing
 
 ### TestContainers
+
 - https://www.testcontainers.org/
 - https://www.youtube.com/watch?v=PEVVvZOt7bY
 - https://www.youtube.com/watch?v=xgZ8KyUDjvQ
@@ -166,7 +195,9 @@
 - https://habr.com/ru/companies/jugru/articles/343298/
 
 ### JUNIT
+
 Важные ссылки
+
 - https://www.baeldung.com/parameterized-tests-junit-5
 - https://stackoverflow.com/questions/47738937/how-to-mock-crudrepository-the-right-way
 - [@DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
@@ -174,10 +205,12 @@
 - https://www.baeldung.com/junit-springrunner-vs-mockitojunitrunner
 
 ### Mocking
+
 - https://en.wikipedia.org/wiki/Comparison_of_API_simulation_tools
 - https://stackoverflow.com/questions/60308578/what-is-the-difference-between-extendwithspringextension-class-and-extendwit
 
 #### WireMock
+
 - https://wiremock.org/
 - https://habr.com/ru/companies/rostelecom/articles/679276/
 - https://habr.com/ru/companies/rostelecom/articles/679330/
@@ -190,9 +223,11 @@
   - https://github.com/java-json-tools/json-schema-validator
 
 #### MockServer
+
 - https://en.wikipedia.org/wiki/MockServer
 
 #### Cucumber
+
 - https://thepracticaldeveloper.com/cucumber-tests-spring-boot-dependency-injection/
 - https://groups.google.com/g/cukes/c/01SAwDi7xUM
 - 

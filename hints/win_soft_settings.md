@@ -17,6 +17,10 @@
 [Подсветка логов](https://gist.github.com/mmdemirbas/3713724)  
 [LogFile.udl.xml](../resources/settings/LogFile.udl.xml)  
 
+## MarkText
+https://github.com/marktext/marktext/releases
+Софт для просмотра и редактирования файлов формата markdown
+
 ## Git
 #### Проверка текущей конфигурации git
 https://stackoverflow.com/questions/12254076/how-do-i-show-my-global-git-configuration

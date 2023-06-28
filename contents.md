@@ -1,4 +1,3 @@
-
 ## Новый файл. Личинка порядка
 
 Тут могла бы быть ваша реклама, но её тут не будет.  
@@ -18,13 +17,13 @@
    - [Базовые и частые операции git](hints/git_common.md)  
    - [Нетипичные и редко используемые случаи git](hints/git_uncommon.md)
    - [Конфигурация ssh для git](hints/ssh_gpg_usage.md)  
-1. [Памятка по markdown](hints/md_is_markdown.md)    
-1. [Spring](hints/spring.md)     
-1. [Gradle](hints/gradle.md)     
-1. [Полезные библиотеки](hints/useful_libs.md)     
-1. [Всяко-разно](hints/other.md)    
-1. [ssh gpg tutorial](hints/ssh_gpg_usage.md)  
-1. [win настройки](hints/win_soft_settings.md)  
-1. Идеи пет проектов
-   - [Проект hip_hub, файлокомбайн с тегированием и всякими свистоперделками](ideas/hip_hub/description.md)
-
+2. [Памятка по markdown](hints/md_is_markdown.md)    
+3. [Spring](hints/spring.md)
+4. [Gradle](hints/gradle.md)     
+5. [Полезные библиотеки](hints/useful_libs.md)     
+6. [Всяко-разно](hints/other.md)    
+7. [Паттерны](hints/patterns.md)
+8. [ssh gpg tutorial](hints/ssh_gpg_usage.md)  
+9. [win настройки](hints/win_soft_settings.md)  
+10. Идеи пет проектов
+    - [Проект hip_hub, файлокомбайн с тегированием и всякими свистоперделками](ideas/hip_hub/description.md)
