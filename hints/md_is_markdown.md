@@ -21,6 +21,8 @@ https://github.com/sandino/Markdown-Cheatsheet/blob/master/README.md
 
 # Софт, редакторы и прочее
 
+[Неплохой список самых популярных редакторов markdown](https://github.com/mundimark/awesome-markdown-editors)
+
 ## MarkText
 
 https://github.com/marktext/marktext/releases
