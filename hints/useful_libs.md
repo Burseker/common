@@ -54,6 +54,12 @@
 - https://www.baeldung.com/spring-data-derived-queries
 - https://www.baeldung.com/spring-data-repositories
 
+#### Mapping
+
+- [Result Set Mapping: Hibernate Specific Mappings](https://thorben-janssen.com/result-set-mapping-hibernate-specific-mappings/)
+- [java - Does JPA/EntityManager provide a mechanism similar to Spring&#39;s RowMapper - Stack Overflow](https://stackoverflow.com/questions/30088081/does-jpa-entitymanager-provide-a-mechanism-similar-to-springs-rowmapper)
+- [java - Map Custom JdbcTemplate query result in an Object - Stack Overflow](https://stackoverflow.com/questions/61571357/map-custom-jdbctemplate-query-result-in-an-object)
+
 ### H2 DB
 
 Важные ссылки
