@@ -64,6 +64,8 @@
 
 - [Differences in @Valid and @Validated Annotations in Spring | Baeldung](https://www.baeldung.com/spring-valid-vs-validated)
 
+- [GitHub - JanLoebel/json-schema-validation-starter: Spring Boot 2 Starter for Json Schema Validation](https://github.com/JanLoebel/json-schema-validation-starter/tree/master)
+
 - [Integrating JSON Schema validation in Spring using a custom HandlerMethodArgumentResolver](https://www.mscharhag.com/spring/json-schema-validation-handlermethodargumentresolver)
 
 - [Проверка данных — Java &amp; Spring Validation / Хабр](https://habr.com/ru/articles/424819/)
