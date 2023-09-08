@@ -34,9 +34,39 @@
 
 ### JACKSON
 
+- [Jackson Annotation Examples | Baeldung](https://www.baeldung.com/jackson-annotations)
+- [More Jackson Annotations | Baeldung](https://www.baeldung.com/jackson-advanced-annotations#bd-jsontypeid)
 - https://www.baeldung.com/jackson-deserialize-immutable-objects
 - https://www.logicbig.com/tutorials/misc/jackson/json-creator.html
 - https://www.baeldung.com/jackson-inheritance
+
+#### Deserialization of a polymorphic type
+
+- [JacksonPolymorphicDeserialization · FasterXML/jackson-docs Wiki · GitHub](https://github.com/FasterXML/jackson-docs/wiki/JacksonPolymorphicDeserialization)
+
+- [Deduction-Based Polymorphism in Jackson 2.12 | Baeldung](https://www.baeldung.com/jackson-deduction-based-polymorphism)
+
+- [Deserialization of a polymorphic type based on presence of a property · Issue #1627 · FasterXML/jackson-databind · GitHub](https://github.com/FasterXML/jackson-databind/issues/1627)
+
+- [java - Deserializing polymorphic types with Jackson based on the presence of a unique property - Stack Overflow](https://stackoverflow.com/questions/24263904/deserializing-polymorphic-types-with-jackson-based-on-the-presence-of-a-unique-p/50013090#50013090)
+
+- [More Jackson Annotations | Baeldung](https://www.baeldung.com/jackson-advanced-annotations#bd-jsontypeid)
+
+- [Inheritance in Jackson | Baeldung](https://www.baeldung.com/jackson-inheritance)
+
+- https://www.logicbig.com/tutorials/misc/jackson/json-type-id-annotation.html
+
+- [json - How to customize Jackson type information mechanism - Stack Overflow](https://stackoverflow.com/questions/12353774/how-to-customize-jackson-type-information-mechanism)
+
+#### Jakarta Validation
+
+- [Java Bean Validation Basics | Baeldung](https://www.baeldung.com/java-validation)
+
+- [Differences in @Valid and @Validated Annotations in Spring | Baeldung](https://www.baeldung.com/spring-valid-vs-validated)
+
+- [Integrating JSON Schema validation in Spring using a custom HandlerMethodArgumentResolver](https://www.mscharhag.com/spring/json-schema-validation-handlermethodargumentresolver)
+
+- [Проверка данных — Java &amp; Spring Validation / Хабр](https://habr.com/ru/articles/424819/)
 
 ### JSON-Path
 
