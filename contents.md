@@ -25,5 +25,6 @@
 7. [Паттерны](hints/patterns.md)
 8. [ssh gpg tutorial](hints/ssh_gpg_usage.md)  
 9. [win настройки](hints/win_soft_settings.md)  
-10. Идеи пет проектов
+10. [bash скрипты](hints/bash_scripts.md)  
+11. Идеи пет проектов
     - [Проект hip_hub, файлокомбайн с тегированием и всякими свистоперделками](ideas/hip_hub/description.md)

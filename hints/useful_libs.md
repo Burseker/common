@@ -268,4 +268,6 @@
 
 - https://thepracticaldeveloper.com/cucumber-tests-spring-boot-dependency-injection/
 - https://groups.google.com/g/cukes/c/01SAwDi7xUM
-- 
+
+Хорошие примеры огурца от разработчиков
+- https://github.com/cucumber/cucumber-jvm/tree/main/examples
