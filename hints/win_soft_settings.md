@@ -156,14 +156,16 @@ cmake .. -D CMAKE_BUILD_TYPE=Release
 
 - ``gpedit.msc``
 
-- ``rundll32.exe keymgr.dll, KRShowKeyMgr``  - открывает список сохраненных имен пользователей и паролей
+- ``rundll32.exe keymgr.dll, KRShowKeyMgr``  - открывает список сохраненных имен пользователей и паролей  
+  так же паролями пользователей можно управлять из "Управление сетевыми паролями" (Control Panel\User Accounts\Credential Manager)
+  [Управление паролями windows](https://winitpro.ru/index.php/2012/04/17/upravlenie-soxranennymi-parolyami-v-windows-7/)
   
-  #### net use
+    #### net use
   
-  [хорошая статья по теме net use](https://cmd4win.ru/administrirovanie-seti/upravlenie-setyu/68-net-use)  
-  Для подключения из под конкретного пользака следует использовать утилиту net use, можно создать нужный диск с нужным пользователем.
+    [хорошая статья по теме net use](https://cmd4win.ru/administrirovanie-seti/upravlenie-setyu/68-net-use)  
+    Для подключения из под конкретного пользака следует использовать утилиту net use, можно создать нужный диск с нужным пользователем.
   
-  > Если работать из под консоли админа, то из эксплорера не будет видно подключенных папок
+  >   Если работать из под консоли админа, то из эксплорера не будет видно подключенных папок
 
 - ``net use`` - список существующих подключений
 
