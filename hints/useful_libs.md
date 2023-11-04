@@ -259,6 +259,8 @@
   - https://bitbucket.org/atlassian/swagger-request-validator/src/master/
   - https://github.com/VirginGates/validating-wiremock
   - https://github.com/java-json-tools/json-schema-validator
+Включение логов в spring-cloud-contract
+- https://stackoverflow.com/questions/66186254/how-to-enable-spring-cloud-contract-wiremock-server-logging
 
 #### MockServer
 
@@ -271,3 +273,10 @@
 
 Хорошие примеры огурца от разработчиков
 - https://github.com/cucumber/cucumber-jvm/tree/main/examples
+
+#### Spock Framework
+Фреймворк тестирования в стиле BDD на Groove
+
+- https://spockframework.org/spock/docs/2.3/index.html
+- https://habr.com/ru/articles/137561/
+- https://www.baeldung.com/groovy-spock
