@@ -299,6 +299,8 @@
 ### Micrometer
  - https://micrometer.io/
  - https://micrometer.io/docs/tracing
- - 
+ - https://stackoverflow.com/questions/76620276/use-both-b3-and-w3c-trace-formats-in-trace-propagation-between-spring-boot-2-3
+ - https://github.com/spring-cloud/spring-cloud-openfeign/issues/812  
+   > подробное решение практически всех проблем не только по feign и по ряду остальных вопросов 
 
 ## Keycloak
