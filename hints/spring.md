@@ -6,6 +6,7 @@
 - [events in spring](https://www.baeldung.com/spring-events)
 - https://www.codingame.com/playgrounds/2096/playing-around-with-spring-bean-configuration
 - https://habr.com/ru/companies/jugru/articles/424503/
+- https://www.baeldung.com/configuration-properties-in-spring-boot
 
 ## Spring Context
 - https://www.logicbig.com/tutorials/spring-framework/spring-core/tests-context-initializer.html
