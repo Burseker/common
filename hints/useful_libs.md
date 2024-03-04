@@ -7,6 +7,7 @@
 ## JAVA
 
 - [Отличный список основных JAVA проектов и репозиториев](https://github.com/akullpp/awesome-java)
+- [Репозиторий с примерами на который ссылаются в baeldung](https://github.com/eugenp/tutorials)
 
 ### Java Servlets
 
@@ -99,6 +100,12 @@
 - https://www.baeldung.com/spring-boot-h2-database
 - https://www.baeldung.com/spring-boot-data-sql-and-schema-sql
 - http://www.h2database.com/html/features.html
+- 
+
+### logback
+
+- https://logback.qos.ch/manual/appenders.html
+- https://www.baeldung.com/java-logging-rolling-file-appenders
 - 
 
 ### STREAMS API
@@ -224,6 +231,13 @@
 
 # Testing
 
+### Assertion library
+
+#### ASSERTJ
+
+- https://blog.jdriven.com/2023/07/awesome-assertj-check-string-starts-or-ends-with-a-given-value/
+- https://habr.com/ru/articles/675778/
+
 ### TestContainers
 
 - https://www.testcontainers.org/
@@ -241,6 +255,8 @@
 - [@DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
 - [SOF @DataJpaTest](https://stackoverflow.com/questions/57345449/unable-to-load-application-properties-file-datajpatest-annotation)
 - https://www.baeldung.com/junit-springrunner-vs-mockitojunitrunner
+- https://www.baeldung.com/junit-5-extensions
+- https://java-ru-blog.blogspot.com/2020/10/spring-integrational-testing-annotations.html
 
 ### Mocking
 
