@@ -172,3 +172,8 @@ cmake .. -D CMAKE_BUILD_TYPE=Release
 - ``net use \\<computer_name>\<folder_name> /USER:<user> <password> /PERSISTENT:NO`` - запуск из под конкретного пользака
 
 - ``net use * /DEL`` - Удалить все подключения
+
+## Управление сертификатами windows 
+
+- certmgr.msc - менеджер сертификатов для локального пользователя
+- certlm.msc - (certificates local mashine) управление сертификатами для локальной машины
