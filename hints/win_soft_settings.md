@@ -5,14 +5,19 @@
 # Отслеживание текущего состояния винды, полезные утилиты мониторинга
 
 ## Просмотр событий винды
+
 Поиск -> "Просмотр событий"
+
 > Тут можно найти бквально всё что происходит в системе
 
 ## Просмотр активности устройств
+
 Диспетчер устройств
 
 ## Просмотр активности USB
+
 Полезные утилиты:
+
 - https://www.nirsoft.net/utils/usb_log_view.html
 - https://www.nirsoft.net/utils/usb_devices_view.html
 
@@ -81,6 +86,80 @@ Editor->General->Editor Tabs
   несколько криво(в консоли нормально не отображалась буква И).  
   А так же можно добавить опцию `-Dfile.encoding=UTF8` к gradlew.DEFAULT_JVM_OPTS, но нужно будет настраивать gradle запускаться через
   этот скрипт, для консольной сборки вариант тоже подходит
+
+Полезные плагины для идеи
+
+- AdvancedExpressionFolding
+
+- Ansible_Vault_Editor-1.17
+
+- antlr-intellij-plugin-v4-1.16
+
+- ChooseRuntime-1.0.8
+
+- cucumber-java
+
+- cucumber-kotlin-2020.3.0
+
+- DarkPurpleTheme
+
+- gherkin
+
+- gittoolbox-212.8.4
+
+- go-template-213.6777.8
+
+- google-java-format
+
+- GwtStudio-203.5981.41
+
+- handlebars-212.5712.51
+
+- idea-spock-enhancements-0.12
+
+- IdeaVim-1.10.0
+
+- IdeaVim
+
+- ideolog-203.0.27.0
+
+- ij-extra-icons-1.31.0.183
+
+- IntelliJ-Key-Promoter-X-2020.1.1
+
+- JavaFX_plugin_1.0.3
+
+- jenkins-control-plugin-0.13.13-2021.2-signed
+
+- jpa-buddy-2022.1.1-212
+
+- ktor-1.4.1
+
+- MapStruct-Intellij-Plugin-1.3.1
+
+- Material_Theme-5.3.2.1
+
+- one-dark-theme
+
+- plantuml4idea
+
+- prettierJS-203.5981.152
+
+- prettierJS-211.7142.13
+
+- prettierJS-212.5080.8
+
+- prettierJS
+
+- qa-lithium-1.2.1
+
+- Save actions-intellij plugin 2.2.0
+
+- sh-213.2094.12
+
+- StringManipulation
+
+- tide-datagen-impl-212.4746.57
 
 ### Editorconfigs
 
@@ -160,7 +239,7 @@ cmake .. -D CMAKE_BUILD_TYPE=Release
   так же паролями пользователей можно управлять из "Управление сетевыми паролями" (Control Panel\User Accounts\Credential Manager)
   [Управление паролями windows](https://winitpro.ru/index.php/2012/04/17/upravlenie-soxranennymi-parolyami-v-windows-7/)
   
-    #### net use
+  #### net use
   
     [хорошая статья по теме net use](https://cmd4win.ru/administrirovanie-seti/upravlenie-setyu/68-net-use)  
     Для подключения из под конкретного пользака следует использовать утилиту net use, можно создать нужный диск с нужным пользователем.
@@ -173,7 +252,7 @@ cmake .. -D CMAKE_BUILD_TYPE=Release
 
 - ``net use * /DEL`` - Удалить все подключения
 
-## Управление сертификатами windows 
+## Управление сертификатами windows
 
 - certmgr.msc - менеджер сертификатов для локального пользователя
 - certlm.msc - (certificates local mashine) управление сертификатами для локальной машины

@@ -28,3 +28,4 @@
 10. [bash скрипты](hints/bash_scripts.md)  
 11. Идеи пет проектов
     - [Проект hip_hub, файлокомбайн с тегированием и всякими свистоперделками](ideas/hip_hub/description.md)
+12. [Работа с базами данных, примеры](hints/databases.md)
