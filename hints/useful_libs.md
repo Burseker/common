@@ -229,6 +229,16 @@
 - https://www.youtube.com/watch?v=3c-iBn73dDE
 - https://www.youtube.com/watch?v=X48VuDVv0do
 
+- https://stackoverflow.com/questions/25135897/how-to-automatically-start-a-service-when-running-a-docker-container
+- https://habr.com/ru/companies/slurm/articles/329138/
+
+# BlockChain
+
+## Hyperledger
+
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/getting_started.html
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/install.html#
+
 # Testing
 
 ### Assertion library
