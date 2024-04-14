@@ -30,3 +30,4 @@
     - [Проект hip_hub, файлокомбайн с тегированием и всякими свистоперделками](ideas/hip_hub/description.md)
 12. [Работа с базами данных, примеры](hints/databases.md)
 13. [Scala](hints/scala.md)
+14. [Настройки android](hints/android_settings.md)
